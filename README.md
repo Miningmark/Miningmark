@@ -2,7 +2,7 @@
 
 ### About me...
 
-I currently live in the beautiful Allgäu region in the German Alps. I trained as a cutting machine operator and then went on to train as a web developer.
+I currently live in the beautiful region Allgäu in the German Alps. I trained as a cutting machine operator and then went on to train as a web developer.
 
 
 ### more about me...
