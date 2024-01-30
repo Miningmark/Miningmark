@@ -28,5 +28,5 @@ const Miningmark = {
 
 ### Other projects from me
 
-- I organize two other conventions in Memmingen Germany and take care of the website. [YumeKai](https://yumekai.de/)
+- I organize two other conventions in Memmingen Germany and take care of the website [YumeKai](https://yumekai.de/)
 - In my free time I also take photos that you can see on [Instagram](https://www.instagram.com/miningmark_photography/)
