@@ -19,7 +19,7 @@ const Miningmark = {
         databases: ["MariaDB", "MySql"],
         misc: ["Microcontroller Programming", "Smart Home"]
     },
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Training as a Web-Developer",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
