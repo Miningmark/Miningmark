@@ -2,7 +2,7 @@
 
 ### About me...
 
-I currently live in the beautiful region Allgäu in the German Alps. I trained as a cutting machine operator and then went on to train as a web developer.
+I live currently in the beautiful region Allgäu in the German Alps. I trained as a cutting machine operator and then went on to train as a web developer.
 
 
 ### more about me...
@@ -13,6 +13,8 @@ const Miningmark = {
     code: ["Javascript", "Java", "CSS", "HTML", ],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
+        Libraries: [React],
+        Frameworks: [Next.js],
         backEnd: {
             js: ["Node", "Express"],
         },
