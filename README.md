@@ -13,8 +13,8 @@ const Miningmark = {
     code: ["Javascript", "Java", "CSS", "HTML", ],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
-        libraries: [React],
-        frameworks: [Next.js],
+        libraries: ["React"],
+        frameworks: ["Next.js"],
         backEnd: {
             js: ["Node", "Express"],
         },
