@@ -18,7 +18,7 @@ const Miningmark = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["MariaDB", "MySql", MongoDB],
+        databases: ["MariaDB", "MySql", "MongoDB"],
         misc: ["Microcontroller Programming", "Smart Home"]
     },
     currentFocus: "Training as a Web-Developer",
