@@ -10,7 +10,7 @@ I live currently in the beautiful region Allgäu in the German Alps. I trained a
 ```javascript
 const Miningmark = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "CSS", "HTML", ],
+    code: ["Javascript", "Java", "CSS", "HTML", "C++"],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
         libraries: ["React", "NextAuth.js", "KaBoom.js"],
