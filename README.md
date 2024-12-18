@@ -13,13 +13,13 @@ const Miningmark = {
     code: ["Javascript", "Java", "CSS", "HTML", "C++"],
     askMeAbout: ["web dev", "tech", "photography"],
     technologies: {
-        libraries: ["React", "NextAuth.js", "KaBoom.js"],
-        frameworks: ["Next.js"],
+        libraries: ["React", "NextAuth.js", "KaBoom.js", "socketIO"],
+        frameworks: ["Next.js", "Express"],
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node"],
         },
         databases: ["MariaDB", "MySql", "MongoDB"],
-        misc: ["Microcontroller Programming", "Smart Home"]
+        misc: ["Microcontroller Programming", "Smart Home", "Wordpress"]
     },
     currentFocus: "Training as a Web-Developer",
     funFact: "There are two ways to write error-free programs; only the third one works"
